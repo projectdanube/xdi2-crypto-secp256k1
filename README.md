@@ -1,7 +1,7 @@
 <a href="http://projectdanube.org/" target="_blank"><img src="http://projectdanube.github.com/xdi2/images/projectdanube_logo.png" align="right"></a>
 <img src="http://projectdanube.github.com/xdi2/images/logo64.png"><br>
 
-This is a [secp256k1](https://en.bitcoin.it/wiki/Secp256k1) crypto plugin for the [XDI2](http://github.com/projectdanube/xdi2) client and server.
+This is a [secp256k1](https://en.bitcoin.it/wiki/Secp256k1) crypto plugin for the [XDI2](http://github.com/projectdanube/xdi2) client and server. It supports cid-2 cryptographic XDI numbers based on [BIP-32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) HD keys.
 
 ### Information
 
